@@ -1,4 +1,4 @@
-// Creat an array of friends
+// Create an array of friends
 
 var friends = [
 	{
