@@ -4,23 +4,69 @@ var friends = [
 	{
 		name: 'Ray Romano',
 		photo: '/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6Hmf7lMvu_Z9L2L7gSXtP41Dgo9xk22z0u2BSPRIpinBrx8O',
-		scores: [1, 5, 1, 1, 5, 5, 5, 1, 5, 5]
+        scores: [1, 
+                5, 
+                1,
+                1, 
+                5, 
+                5, 
+                5, 
+                1, 
+                5, 
+                5]
 	},{
 		name: 'Alf',
 		photo: 'https://metvcdn.metv.com/LUdY8-1491939642-244-show-940x370_ALF.jpg',
-		scores: [4, 1, 4, 5, 1, 1, 1, 5, 1, 1]
+        scores: [4, 
+                1, 
+                4, 
+                5, 
+                1, 
+                1, 
+                1, 
+                5, 
+                1, 
+                1]
 	},{
 		name: 'Ed Grimley',
 		photo: 'https://i.redd.it/kq992jg6ig3z.jpg',
-		scores: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+        scores: [1, 
+                2, 
+                3, 
+                2, 
+                1, 
+                2, 
+                3, 
+                2, 
+                1, 
+                2
+            ]
 	},{
 		name: 'Blossom',
 		photo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpBXakm4z3r1L7WTiLwYcip5fzSpOHC0PaJdLn4_G_vgvlR3AoQ',
-		scores: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+        scores: [5, 
+                4, 
+                3, 
+                2, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                4]
     },{
 		name: 'Ally McBeal',
 		photo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0idly1Ot-s7r2Gc_1NOjceg6DTKqz5oJBFDR2NYFst2fvTNlPg',
-		scores: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+        scores: [1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1]
 	},{
 		name: 'Big Tasty',
 		photo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREvIxEMV3zWON6i-gZ2KG_iHkh57qjxPpXcp_YJIRActN8gsRM',
